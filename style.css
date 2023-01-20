@@ -1,0 +1,32 @@
+* {
+  margin: 0; }
+
+#btn1, #btn2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #FFFF;
+  border-radius: 40px;
+  padding: 23px 47px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: blue;
+  text-decoration: none;
+  display: block;
+  width: 200px; }
+
+#first, #second {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #FFFF;
+  border-radius: 40px;
+  padding: 23px 47px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #dbd5d5;
+  text-decoration: none;
+  display: block;
+  width: 300px; }
+
+/*# sourceMappingURL=style.css.map */
